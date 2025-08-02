@@ -8,6 +8,7 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "owner": "votre-username-expo",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
